@@ -44,4 +44,4 @@ Through data cleaning, statistical testing, and visualization, it uncovers how i
 This project focuses on understanding customer behavior through a statistical lens rather than optimizing predictive accuracy.  
 By combining hypothesis testing and regression modeling, it highlights how fundamental statistical tools can uncover meaningful insights from business data — bridging the gap between data exploration and business decision-making.
 
--
+📬 Contact - Md. Rabbi Hasan | Data Scientist 📧arafatrabbi668@gmail.com | LinkedIn https://www.linkedin.com/in/md-rabbi-hasan-3249652b1 Passionate about turning raw data into real-world insights through clear, compelling storytelling.
